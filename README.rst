@@ -2,7 +2,7 @@
 lode
 ====
 
-.. image:: https://pypip.in/v/lode/badge.png
+.. image:: https://img.shields.io/pypi/v/lode.svg
     :target: https://pypi.python.org/pypi/lode
     :alt: Latest PyPI version
 
